@@ -1,0 +1,13 @@
+break main
+break sort
+break swap
+run
+source frame.py
+c
+c
+c
+c
+c
+c
+frame_info
+quit

@@ -1,0 +1,4 @@
+b main
+r
+x/32x $rsp
+q
